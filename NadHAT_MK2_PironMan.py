@@ -17,7 +17,7 @@ from gpiozero import CPUTemperature
 liste_couleurs = ['rouge', 'vert', 'bleu', 'jaune', 'mauve', 'blanc']
 liste_hexa     = ['FF000', '00FF00', '0000FF', 'FFFF00', 'FF00FF', 'FFFFFF']
 
-tel_carte = "+33656737913"
+tel_carte = "+336xxxxxx13"
 
 SERIAL_PORT = "/dev/ttyUSB2"  
 
